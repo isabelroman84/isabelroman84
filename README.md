@@ -2,8 +2,8 @@
 
 I'm Isabel Cristina 👩🏽‍💻 *Frontend Developer* 
 
-##**About Me**
-
+###**About Me**
+```javascript
 const isabelRoman = {
   personalProfile: 'I like Vanilla JavaScript, currently learning Node.js',
   agileMethodology: 'SCRUM',
@@ -11,7 +11,7 @@ const isabelRoman = {
   technologies: ['Firebase', 'GitHub', 'Git', 'Node.js', 'Jest'],
   hobbies: ['origami', 'write', "learn new things"],
 }
-
+```
 📒 I'm trained to translate into lines of code the customer requirements to present practical solutions with which he feels identified.
 
 ## 💻 Tech Stack:
