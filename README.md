@@ -2,7 +2,7 @@
 
 I'm Isabel Cristina 👩🏽‍💻 *Frontend Developer* 
 
-###**About Me**
+### About Me:
 ```javascript
 const isabelRoman = {
   personalProfile: 'I like Vanilla JavaScript, currently learning Node.js',
